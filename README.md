@@ -5,7 +5,11 @@ fuso
 
 ❌ Just an experiment. DO NOT use this.
 
-Related:
+# Usage
+
+For example of usage, see `test/*.js`.
+
+# Related:
 
 - [camaro](https://github.com/tuananh/camaro)
 
