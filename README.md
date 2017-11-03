@@ -5,15 +5,15 @@ fuso
 
 ❌ Just an experiment. DO NOT use this.
 
-# Usage
+### Usage
 
 For example of usage, see `test/*.js`.
 
-# Related:
+### Related:
 
 - [camaro](https://github.com/tuananh/camaro)
 
-# Development
+### Development
 
     node-pre-gyp clean
     node-pre-gyp configure
